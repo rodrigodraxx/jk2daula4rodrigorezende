@@ -1,0 +1,25 @@
+body{
+    background-color: #d9d9d9;
+    color: #c8a54b;
+}
+.logo{
+    width: 80%;
+    height: 80%;
+    margin:0px 110px;
+}
+.textopg1{
+    font-size: 48px;
+}
+.logozap{
+    width: 125px;
+    margin: 38px  180px;
+}
+.wtspnumero{
+    font-size: 48px;
+    color: #000;
+    margin: 0px;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
